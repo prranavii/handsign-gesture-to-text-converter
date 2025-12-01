@@ -16,3 +16,21 @@ This project captures hand gestures (signs) via webcam and converts them into te
 
 ## Project Structure  
 
+/ — Root folder
+├── Source code/ — Contains scripts for detection, classification, and gesture-to-text conversion
+├── Training Data/ — Dataset of hand-gesture images used for training/testing
+├── README.md — This file
+
+
+
+> **Note:** The above structure assumes you have separated source code and training data. Adjust paths as per your actual repository layout.
+
+## How to Use  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/prranavii/handsign-gesture-to-text-converter.git
+   cd handsign-gesture-to-text-converter
+pip install opencv-python numpy
+python <your_main_script>.py
+
