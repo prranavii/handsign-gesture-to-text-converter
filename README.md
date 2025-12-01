@@ -1,1 +1,1 @@
-# handsign-gesture-to-text-converter
+# Indian-Sign-language-to-text-translater
